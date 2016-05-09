@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Eason's Bookmarks",
-  "description": "Eason的书签插件,替代chrome的同步插件",
+  "description": "Eason's Bookmarks,替代chrome的同步插件",
   "version": "1.0",
   "icons": {
     "48": "bookmark.png"
